@@ -107,6 +107,7 @@
 <h3 align="left">Languages and Tools:</h3><br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,postman,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql" />
+    <img src="https://skillicons.dev/icons?i=apple,nodejs,npm,php,pkl,tensorflow" /> <br>
 </div>
 
