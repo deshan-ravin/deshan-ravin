@@ -91,8 +91,6 @@
 </p>
 
 
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
 
 <h3 align="left">Connect with me: <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3><br>
 <p align="center">
