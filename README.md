@@ -1,7 +1,7 @@
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif) 
  <br>
 <h1 align="center">Hi 👋, I'm Deshan Ravindra</h1>
-<h3 align="center">A delegate Software Engineering Undergraduate in Colombo Sri Lanka.</h3>
+<h3 align="center">A Delegate Software Engineering Undergraduate in Colombo Sri Lanka.</h3>
 
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+stack+developer;I'm+a+competitive+programmer;I'm+a+quick+learner" /></a>
@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently an Undergraduate student at IIT affiliated with the University of Westminster
 
-- 🌱 I’m currently learning **React,NodeJs,Postman**
+- 🌱 I’m currently learning **Golang,Next.js,PostgreSQL**
   
 - ⚡ Fun fact **You can call me Anju !** 
 
