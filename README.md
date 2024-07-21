@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently an Undergraduate student at IIT affiliated with the University of Westminster
 
-- 🌱 I’m currently learning **Golang,Next.js,PostgreSQL**
+- 🌱 I’m currently learning **Golang,Next.js,PostgreSQL,Zustand**
   
 - ⚡ Fun fact **You can call me Anju !** 
 
